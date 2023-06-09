@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    margin : 0px;
+}
+header{
+border-bottom: solid;
+}
+header li {
+list-style: none;
+}
+a {
+    display: block;
+    padding: 10px;
+}
